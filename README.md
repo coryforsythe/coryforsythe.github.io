@@ -1,44 +1,13 @@
-# jekyll-uno
+# Cory Forsythe
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+This Repository hosts the Jekyll source for CoryForsythe.com
 
-> :warning:
-  This theme requires ruby and rubygems installed
 
-### Features
+If you are interested in learning how to host your own blog with GitHub, read more about the [Jekyll Platform](https://jekyllrb.com/)
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+This blog uses a Jekyll Theme, [Jekyll-uno](http://joshgerdes.com/jekyll-uno/) written by the talented [Josh Gerdes](https://github.com/joshgerdes)
 
----
 
-### Install and Test
-
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
-
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
-
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
-
----
 
 ### Copyright and license
 
