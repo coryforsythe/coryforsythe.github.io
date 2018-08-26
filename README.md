@@ -1,6 +1,6 @@
 # Cory Forsythe
 
-This Repository hosts the Jekyll source for [CoryForsythe.com](http://coryforsythe.com)
+This Repository hosts the Jekyll source for [CoryForsythe.com](https://coryforsythe.com)
 
 
 If you are interested in learning how to host your own blog with GitHub, read more about the [Jekyll Platform](https://jekyllrb.com/)
